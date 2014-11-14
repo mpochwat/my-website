@@ -68,14 +68,14 @@
 
 .startup .container {
   position: relative;
-  top: 0px;
-  bottom: 20px;
+  top: 10px;
+  bottom: 30px;
 }
 
 .startup p {
     font-size: 16px;
-    margin-bottom: 25px;
-    margin-top: 0px;
+    margin-bottom: 30px;
+    margin-top: 10px;
 }
 
 .startup .col-md-8 {
